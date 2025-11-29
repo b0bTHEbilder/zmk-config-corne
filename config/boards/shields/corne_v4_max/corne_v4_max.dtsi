@@ -1,4 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h>
+#include <corne_v4_max-layouts.dtsi>
 
 / {
     &physical_layout0 {
