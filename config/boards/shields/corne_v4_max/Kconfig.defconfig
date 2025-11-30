@@ -19,5 +19,7 @@ if SHIELD_CORNE_V4_MAX_LEFT || SHIELD_CORNE_V4_MAX_RIGHT
 
     config ZMK_SPLIT
         default y
+    config ZMK_KEYBOARD_NAME
+        default "Corne V4 Max"
 
 endif
