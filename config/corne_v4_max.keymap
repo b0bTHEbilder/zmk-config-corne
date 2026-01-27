@@ -14,6 +14,7 @@
 &kp DEL &kp Z  &kp X  &kp C  &kp V   &kp B                                                         &kp K     &kp M  &kp COMMA &kp DOT &kp BACKSLASH &kp PLUS
                                                     &kp N7       &kp N8         &kp N9   &kp N0
                              &kp N1  &kp LEFT_SHIFT &kp LEFT_WIN &kp LCTRL      &kp RALT &kp ENTER &kp SPACE &kp N2
+            >;
         };
     };
 };
