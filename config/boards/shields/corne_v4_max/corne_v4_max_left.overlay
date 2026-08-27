@@ -1,2 +1,0 @@
-#include "corne_v4_max.dtsi" // Notice that the main dtsi files are included in the overlay.
-

@@ -1,6 +1,6 @@
 {
-  "id": "corne_v4_max",
-  "name": "corne_v4_max",
+  "id": "corne",
+  "name": "corne",
   "layouts": {
     "default_layout": {
       "name": "default_layout",
@@ -61,7 +61,7 @@
         { "row": 4, "col":  7, "x":  8, "y": 5.2, "r": 30},
         { "row": 4, "col":  9, "x":  9, "y": 4 },
         { "row": 4, "col":  10, "x":  10, "y": 4 },
-        { "row": 5, "col":  4, "x": 4, "y": 5 },
+        { "row": 5, "col":  4, "x": 4, "y": 4.5 },
         { "row": 5, "col":  5, "x": 5.6, "y": 5.1, "w": 1.25, "r": 15},
         { "row": 5, "col":  6, "x":  6.65, "y": 5.55, "r": 30},
         { "row": 5, "col":  7, "x":  7.5, "y": 6.05, "r": 30},
