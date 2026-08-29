@@ -61,7 +61,7 @@
 
             bindings = <
 &kp Q                &kp W            &kp E            &kp R           &kp T         &kp Y               &kp U           &kp I             &kp O             &kp P
-&hml LEFT_CONTROL A  &hml LEFT_GUI S  &hml LEFT_ALT D  &hml LSHIFT F   &kp G         &mo_kp 3 H          &hmr RSHIFT J   &hmr RIGHT_ALT K  &hmr RIGHT_GUI L  &hmr RIGHT_CONTROL SEMICOLON
+&hml LEFT_CONTROL A  &hml LEFT_GUI S  &hml LEFT_ALT D  &hml LSHIFT F   &kp G         &mo_kp 5 H          &hmr RSHIFT J   &hmr RIGHT_ALT K  &hmr RIGHT_GUI L  &hmr RIGHT_CONTROL SEMICOLON
 &kp Z                &kp X            &kp C            &kp V           &kp B         &kp N               &kp M           &kp COMMA         &kp DOT           &kp FSLH
                                       &kp DELETE       &mo_kp 2 ENTER  &mo_kp 1 TAB  &mo_kp 3 BACKSPACE  &mo_kp 4 SPACE  &kp LEFT_GUI
             >;
@@ -112,10 +112,10 @@
 
         Symbols {
             bindings = <
-&kp LS(NUMBER_1)  &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(N5)  &kp LS(AMPERSAND)  &kp LS(N7)  &kp LC(LA(PIPE))  &kp LS(BACKSLASH)  &kp LS(N0)
-&kp PLUS          &kp LA(LC(N8))    &kp LA(LC(N7))    &kp LS(N8)        &kp PIPE    &kp PIPE           &kp LS(N9)  &kp LA(LC(N0))    &kp LA(LC(N9))     &kp MINUS
-&kp CLCK          &kp RS(STAR)      &trans            &trans            &trans      &trans             &trans      &trans            &trans             &trans
-                                    &trans            &trans            &trans      &trans             &trans      &trans
+&kp LS(NUMBER_1)  &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(N5)           &kp LS(AMPERSAND)        &kp LS(N7)  &kp LA(LC(INTERNATIONAL_1))  &kp LS(BACKSLASH)  &kp LS(N0)
+&kp SLASH         &kp LA(LC(N8))    &kp LA(LC(N7))    &kp LS(N8)        &kp INTERNATIONAL_1  &kp LS(INTERNATIONAL_1)  &kp LS(N9)  &kp LA(LC(N0))               &kp LA(LC(N9))     &kp MINUS
+&kp CLCK          &kp RS(STAR)      &trans            &trans            &trans               &trans                   &trans      &trans                       &trans             &trans
+                                    &trans            &trans            &trans               &trans                   &trans      &trans
             >;
         };
 
